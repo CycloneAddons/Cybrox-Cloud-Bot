@@ -1,0 +1,7 @@
+pyTelegramBotAPI==4.24.0
+pymongo==4.10.1
+humanize==4.11.0
+RapidFuzz==3.10.1
+pytz==2024.2
+Flask==3.1.0
+python-dotenv==1.0.1
